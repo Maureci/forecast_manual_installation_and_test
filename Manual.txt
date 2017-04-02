@@ -1,0 +1,18 @@
+Tomcat v7.0
+
+jdk1.8.0_66
+
+Eclipse Mars
+
+MySql instalado pelo "XAMPP Control Panel v3.2.2"
+
+O "mysql-connector-java-5.0.8-bin.jar" fica na pasta "C:\Program Files\Java\jdk1.8.0_66\jre\lib\ext"
+
+Testado no navegador Chrome: http://localhost:8080/Forecast/
+
+Nesta pasta tem um vídeo do teste "Video Teste Funcionalidades.rar"
+
+Há também uma pasta com os prints do eclipse Prints do Projeto Eclipse.rar
+
+Duvidas:
+ms-@outlook.com.br
